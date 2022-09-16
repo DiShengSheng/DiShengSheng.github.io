@@ -1,0 +1,70 @@
+.mod {
+  width: 360px;
+  height: 640px;
+  font-family: AlibabaPuHuiTi-Bold;
+}
+.view {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 360px;
+  height: 640px;
+  background-color: #ffffff;
+}
+.entry-pic {
+  position: relative;
+  align-self: center;
+  width: 231px;
+  height: 175px;
+  margin-top: 9px;
+}
+.desc {
+  position: relative;
+  align-self: center;
+  overflow: hidden;
+  height: 25px;
+  max-width: 312px;
+  margin-top: 15px;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.detail {
+  position: relative;
+  align-self: center;
+  overflow: hidden;
+  height: 25px;
+  max-width: 312px;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.info {
+  position: relative;
+  overflow: hidden;
+  height: 25px;
+  max-width: 300px;
+  margin-left: 30px;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.entry-pic-1 {
+  position: relative;
+  width: 301px;
+  height: 175px;
+  margin-top: 9px;
+  margin-left: 37px;
+}
+.entry-pic-2 {
+  position: relative;
+  width: 313px;
+  height: 167px;
+  margin-left: 31px;
+}
